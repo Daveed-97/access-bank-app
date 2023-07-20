@@ -1,3 +1,5 @@
 my name is david 
 my teacher is ashokit
 i love devops
+devops is a very interesting subject
+we are learning git at the moment
